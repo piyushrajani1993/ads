@@ -1,7 +1,7 @@
 {
-  "is_ad_show": false,
-  "intra_ad": "", 
-  "reward_ad": "",
-  "native_ad": "",
-  "banner_ad": ""
+  "is_ad_show": true,
+  "intra_ad": "/21753324030,22829501112/com.webscanner.dual.whatswebscanner.whatsweb_Interstitial", 
+  "reward_ad": "/21753324030,22829501112/com.webscanner.dual.whatswebscanner.whatsweb_Rewarded",
+  "native_ad": "/21753324030,22829501112/com.webscanner.dual.whatswebscanner.whatsweb_Native",
+  "banner_ad": "/21753324030,22829501112/com.webscanner.dual.whatswebscanner.whatsweb_Banner"
 }
