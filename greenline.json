@@ -1,7 +1,8 @@
 {
   "is_ad_show": true,
-  "intra_ad": "", 
-  "reward_ad": "",
-  "native_ad": "",
-  "banner_ad": ""
+  "intra_ad": "ca-app-pub-3940256099942544/1033173712", 
+  "reward_ad": "ca-app-pub-3940256099942544/5224354917",
+  "native_ad": "ca-app-pub-3940256099942544/2247696110",
+  "banner_ad": "ca-app-pub-3940256099942544/6300978111",
+  "open_ad": "ca-app-pub-3940256099942544/9257395921"
 }
