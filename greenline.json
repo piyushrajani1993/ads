@@ -1,9 +1,8 @@
 {
-  "is_ad_show": false,
+  "is_ad_show": true,
   "intra_click_count": 3,
-  "intra_ad": "ca-app-pub-3940256099942544/1033173712", 
-  "reward_ad": "ca-app-pub-3940256099942544/5224354917",
-  "native_ad": "ca-app-pub-3940256099942544/2247696110",
-  "banner_ad": "ca-app-pub-3940256099942544/6300978111",
-  "open_ad": "ca-app-pub-3940256099942544/9257395921"
-}
+  "intra_ad": "/21753324030,22829501112/com.greenlinescreen.greenlinetheme.greenlineissue_Interstitial", 
+  "reward_ad": "/21753324030,22829501112/com.greenlinescreen.greenlinetheme.greenlineissue_Rewarded",
+  "native_ad": "/21753324030,22829501112/com.greenlinescreen.greenlinetheme.greenlineissue_Native",
+  "banner_ad": "/21753324030,22829501112/com.greenlinescreen.greenlinetheme.greenlineissue_Banner",
+  "open_ad": "/21753324030,22829501112/com.greenlinescreen.greenlinetheme.greenlineissue_AppOpen"
