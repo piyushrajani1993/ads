@@ -1,0 +1,9 @@
+{
+  "is_ad_show": true,
+  "intra_click_count": 1,
+  "intra_ad": "/6499/example/interstitial",
+  "reward_ad": "/6499/example/rewarded",
+  "native_ad": "/6499/example/native",
+  "banner_ad": "/6499/example/banner",
+  "open_ad": "/6499/example/app-open"
+}
